@@ -1,6 +1,6 @@
 # 18F website and blog archive
 
-This is an archival copy of the 18F website and blog.
+This is an archival copy of the 18F website and blog. It also restores content removed by DOGE.
 
 The 18F website and blog serve as 18F's primary outreach tool, communicating about 18F's way of working and value proposition to prospective partners, the broader digital services community, and the general public.
 
